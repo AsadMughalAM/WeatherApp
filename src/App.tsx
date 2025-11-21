@@ -31,7 +31,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen p-6 bg-gradient-to-b from-white via-slate-50 to-slate-100 flex items-start">
+    <div className="min-h-screen p-6 bg-linear-to-b from-white via-slate-50 to-slate-100 flex items-start">
       <div className="w-full max-w-4xl mx-auto">
         <header className="flex items-center justify-between mb-6">
           <div>
